@@ -1,6 +1,6 @@
 
 # diablo2android
-Diablo 2 on android, using eltechs exagear (took me days, to find it working for Android 10)
+Diablo 2 on android, using eltechs exagear (took me days, to find the working APK for Android 10)
 
 ⚠️ Main Files missing due to Copyright and file size, to play:
 
